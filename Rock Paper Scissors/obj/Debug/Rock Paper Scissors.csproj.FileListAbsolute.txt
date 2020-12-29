@@ -1,9 +1,0 @@
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe.config
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csprojResolveAssemblyReference.cache
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Main.resources
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock_Paper_Scissors.Properties.Resources.resources
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.csproj.GenerateResource.Cache
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.exe
-C:\Users\A\Documents\Visual Studio 2013\Projects\C#\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\Rock Paper Scissors.pdb
